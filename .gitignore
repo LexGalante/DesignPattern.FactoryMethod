@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/DesignPattern.FactoryMethod/v16
+/src/Example/bin/Debug/netcoreapp3.1
+/src/Example/obj
